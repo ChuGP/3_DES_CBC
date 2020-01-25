@@ -1,0 +1,27 @@
+﻿已經開始建置於 2018/5/21 下午 06:37:59。
+     1>節點 2 (build 目標) 上的專案 "D:\Source Code\3DES_CBC\3DES_CBC\3DES_CBC.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\3DES_CBC.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\\" /AIC:\Windows\Microsoft.NET\Framework\v3.5\ /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\\" /AIC:\Windows\Microsoft.NET\Framework\v3.0\ /AIC:\Windows\Microsoft.NET\Framework\v2.0.50727\ /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\3DES_CBC.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /analyze- /errorReport:prompt 3DES_CBC.cpp /d1clr:nostdlib 
+         3DES_CBC.cpp
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Source Code\3DES_CBC\Debug\3DES_CBC.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\3DES_CBC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Source Code\3DES_CBC\Debug\3DES_CBC.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\3DES_CBC.obj
+         Debug\AssemblyInfo.obj
+         Debug\lib3DESCBC.obj
+         Debug\stdafx.obj
+         3DES_CBC.vcxproj -> D:\Source Code\3DES_CBC\Debug\3DES_CBC.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Source Code\3DES_CBC\Debug\3DES_CBC.exe;#1" /manifest Debug\3DES_CBC.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\3DES_CBC.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\3DES_CBC.lastbuildstate"。
+     1>專案 "D:\Source Code\3DES_CBC\3DES_CBC\3DES_CBC.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.56
